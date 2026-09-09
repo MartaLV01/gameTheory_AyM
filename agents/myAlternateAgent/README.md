@@ -24,17 +24,6 @@ graph TD
     F --> G
 ```
 
-
-## How to Modify (For Students)
-
-This is a great starting point for experiments:
-
-```python
-# Variant: Tit-for-Two-Tats (retaliate only after 2 defections)
-# Variant: Generous Tit-for-Tat (forgive 10% of defections)
-# Variant: Tit-for-Tat with Noise (add random forgiveness)
-```
-
 ## Usage
 
 ```bash
